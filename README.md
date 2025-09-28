@@ -1,5 +1,7 @@
 # BARI Analytics — Starter Repo
-
+Projet BARI (1re année).
+Deux mini-projets : inflation CH et EUR/CHF.
+Objectif : apprendre à manipuler des données et faire 2 graphiques.
 Petit dépôt pour 2 mini-projets **Business Analytics** pendant le BARI.
 
 ## Contenu
